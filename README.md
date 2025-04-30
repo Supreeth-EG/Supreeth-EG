@@ -20,7 +20,7 @@ Currently focused on AI-powered automation, cloud data workflows, and multi-moda
   Driving EDA, ML pipelines, and automation across business functions.
 
 - **Lead Analyst – Deduce Technologies**  
-  Built ML models and ETL pipelines using Python, Spark & GCP; reduced processing time by 25%.
+  Built ML models and ETL pipelines using Python, Spark & GCP
 
 - **Freelance Consultant**  
   Delivered Power BI dashboards and forecasting models for SMEs using SQL, Python.
