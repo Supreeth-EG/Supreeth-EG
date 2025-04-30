@@ -1,46 +1,54 @@
-# 👋 Supreeth Gowda (He/Him)
+<h1 align="center">Hi, I'm Supreeth Gowda 👋</h1>
 
-**Data Scientist @ The Elastic Group**  
-📍 Newcastle Upon Tyne, UK | 🎓 MSc Data Science – Northumbria University  
-🧠 4+ years in Data Analytics | Python • R • SQL • Spark • AI/ML  
+<p align="center">
+  <b>Data Scientist @ The Elastic Group</b><br>
+  📍 Newcastle, UK • 🎓 MSc Data Science @ Northumbria University<br>
+  🧠 Python | R | SQL | Spark | AI/ML • 4+ Years Experience<br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Supreeth-EG">
+    <img src="https://img.shields.io/github/followers/Supreeth-EG?label=GitHub&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/supreethagowda/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-lightgrey" alt="Pronouns">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange" alt="Open to Collaboration">
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Curious and impact-driven Data Scientist blending statistical thinking with real-world problem solving. I specialise in building scalable machine learning pipelines and automation solutions that turn data into actionable insights.
+Data Scientist passionate about solving complex problems using data. I turn messy data into meaningful insights and build scalable ML pipelines to drive business decisions.
 
-Currently focused on AI-powered automation, cloud data workflows, and multi-modal deep learning applications.
-
----
-
-## 💼 Experience Snapshot
-
-- **Data Scientist – The Elastic Group**  
-  Driving EDA, ML pipelines, and automation across business functions.
-
-- **Lead Analyst – Deduce Technologies**  
-  Built ML models and ETL pipelines using Python, Spark & GCP
-
-- **Freelance Consultant**  
-  Delivered Power BI dashboards and forecasting models for SMEs using SQL, Python.
+- 🔍 Curious about AI-driven automation  
+- ⚡ Strong in end-to-end data pipelines and cloud integrations  
+- 🧪 Applying machine learning across health, logistics, and retail  
 
 ---
 
-## 🧰 Skills & Tools
+## 🧠 Skills
 
-- **Languages**: Python, R, SQL  
-- **ML & AI**: scikit-learn, TensorFlow, PyTorch  
-- **Big Data**: Apache Spark  
-- **Visualization**: Power BI, Tableau, matplotlib  
-- **Cloud**: Azure, Google Cloud  
-- **Other**: Git, Postman, Excel, Airtable  
+```text
+Languages: Python, R, SQL
+Big Data: Spark, PostgreSQL
+Cloud: Azure, Google Cloud
+ML/AI: scikit-learn, TensorFlow, PyTorch
+BI Tools: Power BI, Tableau, Excel
+Others: Git, Postman, Airtable
 
----
+```
+# 🤝 Let’s Connect
+I'm always happy to chat about:
 
-## 📫 Let's Connect
-💬 Always open to collaboration, knowledge-sharing, and data discussions. 
+- Data science projects
 
----
+- Volunteer data work
 
-_“Always curious. Always learning.”_
+- Ethical AI applications
+
+- Creative ideas that make the world smarter
+
+📬 Reach out via LinkedIn
